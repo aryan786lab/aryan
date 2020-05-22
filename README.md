@@ -1,2 +1,0 @@
-# aryan
-Phone scan
